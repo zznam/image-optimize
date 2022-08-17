@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.2" tiledversion="1.2.4" name="village" tilewidth="64" tileheight="64" tilecount="1300" columns="50">
+ <image source="village.png" width="3200" height="1665"/>
+ <terraintypes>
+  <terrain name="co 1" tile="0"/>
+  <terrain name="cat 1" tile="0"/>
+  <terrain name="co 2" tile="0"/>
+  <terrain name="dat 1" tile="0"/>
+  <terrain name="cat bien" tile="0"/>
+  <terrain name="lua" tile="0"/>
+  <terrain name="lake" tile="0"/>
+ </terraintypes>
+ <tile id="332" terrain="2,2,2,"/>
+ <tile id="333" terrain="2,2,,2"/>
+ <tile id="382" terrain="2,,2,2"/>
+ <tile id="383" terrain=",2,2,2"/>
+ <tile id="431" terrain=",,,2"/>
+ <tile id="432" terrain=",,2,2"/>
+ <tile id="433" terrain=",,2,"/>
+ <tile id="481" terrain=",2,,2"/>
+ <tile id="482" terrain="2,2,2,2"/>
+ <tile id="483" terrain="2,,2,"/>
+ <tile id="531" terrain=",2,,"/>
+ <tile id="532" terrain="2,2,,"/>
+ <tile id="533" terrain="2,,,"/>
+ <tile id="580" terrain=",,,3"/>
+ <tile id="581" terrain=",,3,3"/>
+ <tile id="582" terrain=",,3,"/>
+ <tile id="630" terrain=",3,,3"/>
+ <tile id="631" terrain="3,3,3,3"/>
+ <tile id="632" terrain="3,,3,"/>
+ <tile id="634" terrain="1,1,1,"/>
+ <tile id="635" terrain="1,1,,1"/>
+ <tile id="637" terrain="0,0,0,"/>
+ <tile id="638" terrain="0,0,,0"/>
+ <tile id="680" terrain=",3,,"/>
+ <tile id="681" terrain="3,3,,"/>
+ <tile id="682" terrain="3,,,"/>
+ <tile id="684" terrain="1,,1,1"/>
+ <tile id="685" terrain=",1,1,1"/>
+ <tile id="687" terrain="0,,0,0"/>
+ <tile id="688" terrain=",0,0,0"/>
+ <tile id="730" terrain="3,3,3,"/>
+ <tile id="731" terrain="3,3,,3"/>
+ <tile id="733" terrain=",,,1"/>
+ <tile id="734" terrain=",,1,1"/>
+ <tile id="735" terrain=",,1,"/>
+ <tile id="736" terrain=",,,0"/>
+ <tile id="737" terrain=",,0,0"/>
+ <tile id="738" terrain=",,0,"/>
+ <tile id="780" terrain="3,,3,3"/>
+ <tile id="781" terrain=",3,3,3"/>
+ <tile id="783" terrain=",1,,1"/>
+ <tile id="784" terrain="1,1,1,1"/>
+ <tile id="785" terrain="1,,1,"/>
+ <tile id="786" terrain=",0,,0"/>
+ <tile id="787" terrain="0,0,0,0"/>
+ <tile id="788" terrain="0,,0,"/>
+ <tile id="833" terrain=",1,,"/>
+ <tile id="834" terrain="1,1,,"/>
+ <tile id="835" terrain="1,,,"/>
+ <tile id="836" terrain=",0,,"/>
+ <tile id="837" terrain="0,0,,"/>
+ <tile id="838" terrain="0,,,"/>
+ <tile id="884" terrain="6,6,6,"/>
+ <tile id="885" terrain="6,6,,6"/>
+ <tile id="890" terrain="4,4,4,"/>
+ <tile id="891" terrain="4,4,,4"/>
+ <tile id="934" terrain="6,,6,6"/>
+ <tile id="935" terrain=",6,6,6"/>
+ <tile id="940" terrain="4,,4,4"/>
+ <tile id="941" terrain=",4,4,4"/>
+ <tile id="977" terrain="5,5,5,"/>
+ <tile id="978" terrain="5,5,,5"/>
+ <tile id="983" terrain=",,,6"/>
+ <tile id="984" terrain=",,6,6"/>
+ <tile id="985" terrain=",,6,"/>
+ <tile id="1027" terrain="5,,5,5"/>
+ <tile id="1028" terrain=",5,5,5"/>
+ <tile id="1033" terrain=",6,,6"/>
+ <tile id="1034" terrain="6,6,6,6"/>
+ <tile id="1035" terrain="6,,6,"/>
+ <tile id="1041" terrain=",,,4"/>
+ <tile id="1042" terrain=",,4,4"/>
+ <tile id="1043" terrain=",,4,"/>
+ <tile id="1076" terrain=",,,5"/>
+ <tile id="1077" terrain=",,5,5"/>
+ <tile id="1078" terrain=",,5,"/>
+ <tile id="1083" terrain=",6,,"/>
+ <tile id="1084" terrain="6,6,,"/>
+ <tile id="1085" terrain="6,,,"/>
+ <tile id="1091" terrain=",4,,4"/>
+ <tile id="1092" terrain="4,4,4,4"/>
+ <tile id="1093" terrain="4,,4,"/>
+ <tile id="1126" terrain=",5,,5"/>
+ <tile id="1127" terrain="5,5,5,5"/>
+ <tile id="1128" terrain="5,,5,"/>
+ <tile id="1141" terrain=",4,,"/>
+ <tile id="1142" terrain="4,4,,"/>
+ <tile id="1143" terrain="4,,,"/>
+ <tile id="1176" terrain=",5,,"/>
+ <tile id="1177" terrain="5,5,,"/>
+ <tile id="1178" terrain="5,,,"/>
+</tileset>
