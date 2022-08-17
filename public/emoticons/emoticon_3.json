@@ -1,0 +1,95 @@
+{"frames": {
+
+"emoticon_3_00.png":
+{
+	"frame": {"x":1,"y":1261,"w":311,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":17,"w":311,"h":303},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_01.png":
+{
+	"frame": {"x":314,"y":1,"w":311,"h":303},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":17,"w":311,"h":303},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_02.png":
+{
+	"frame": {"x":1,"y":1,"w":311,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":311,"h":313},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_03.png":
+{
+	"frame": {"x":314,"y":314,"w":311,"h":303},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":17,"w":311,"h":303},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_04.png":
+{
+	"frame": {"x":314,"y":627,"w":311,"h":303},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":17,"w":311,"h":303},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_05.png":
+{
+	"frame": {"x":1,"y":316,"w":311,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":311,"h":313},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_06.png":
+{
+	"frame": {"x":314,"y":940,"w":311,"h":303},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":17,"w":311,"h":303},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_07.png":
+{
+	"frame": {"x":314,"y":1253,"w":311,"h":303},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":17,"w":311,"h":303},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_08.png":
+{
+	"frame": {"x":1,"y":631,"w":311,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":311,"h":313},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_3_09.png":
+{
+	"frame": {"x":1,"y":946,"w":311,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":311,"h":313},
+	"sourceSize": {"w":320,"h":320}
+}},
+"animations": {
+	"emoticon_3": ["emoticon_3_00.png","emoticon_3_01.png","emoticon_3_02.png","emoticon_3_03.png","emoticon_3_04.png","emoticon_3_05.png","emoticon_3_06.png","emoticon_3_07.png","emoticon_3_08.png","emoticon_3_09.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "emoticon_3.png",
+	"format": "RGBA8888",
+	"size": {"w":618,"h":1565},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6a2dadfcff1bc5c0d475d7fd8f67c454:3c1b159b3111dc3977b1f5f77b9bd584:6bea8bc0f258792cdaea6270b9ba5ba5$"
+}
+}

@@ -1,0 +1,35 @@
+key,en,vi,cn,kor,es,ja
+perfection,Perfection,Độ hoàn hảo,完美率,완벽도,Perfección,完璧
+latest,Latest,Gần nhất,最新的,최근,Ultimo,最新
+price_inc,Price Increasing,Giá tăng dần,价格上涨,가격 올림,Aumento de precio,値上げ
+price_dec,Price Decreasing,Giá,价格下降,가각 내림,Disminucion de precio,価格の低下
+lvl_inc,Level Increasing,Tăng Level / Tăng cấp độ,等级提升,레벨 올림,Aumento de nivel,レベルの増加
+lvl_dec,Level Decreasing,Giảm Level / Giảm cấp độ,水平下降,레벨 내림,disminucion de nivel,レベルの低下
+bp_inc,BP Increasing,Tăng BP,血压升高,BP올림,Aumento de poder de batalla,血圧上昇
+bp_dec,BP Decreasing,Giảm BP,血压下降,BP내림,Disminucion de poder de batalla,BP減少
+day,Day,Ngày,日,날,Día,日
+days,Days,Nhiều ngày,天,날들,Días,日々
+battle_power,Battle Power,Sức mạnh chiến đấu,战斗力,전트력,Poder de batalla,バトルパワー
+monster_id,Monster ID,ID Quái,怪物编号,몬스타 ID,ID del monstruo,モンスターID
+attack,Attack,Tấn công,攻击,공격,Ataque,アタック 攻撃
+defense,Defense,Phòng thủ,防御,방어,Defensa,防衛
+battles_won,Battles Won,Trận thắng,战斗胜利,베틀 승,Batallas ganados,戦いに勝った
+health_point,Health Points,HP (Máu),健康点,건강 포인트,Puntos de salud,健康ポイント
+born_chain,Origin Chain,Chuỗi nguyên thủy,起源链,오리진 체인,Red originaria,オリジンチェーン
+special_attack,Special Attack,Đòn công đặc biệt,特殊攻击,스페셜 공격,Ataque especial,必殺技
+birthday,Birthday,Sinh nhật,生日,생일,Dia de nacimiento,誕生日
+special_defense,Special Defense,Đòn thủ đặc biệt,特种防御,스페셜 방어,Defensa especial,特別防衛
+birth_block,Origin Block,Khối nguyên thủy,原点块,오리진 블로크,Bloque originario,オリジンブロック
+speed,Speed,Tốc độ,速度,속도,velocidad,スピード
+level,Level,Level / Cấp độ,等级,레벨,Nivel,レベル
+back,BACK,Quay lại,背部,백,Volver,バック
+cancel,CANCEL,Hủy,取消,취소,Cancelar,キャンセル
+confirm,CONFIRM,Xác nhận,确认,확인,Confirmar,確認
+in_transit,In Transit,Trong quá trình chuyển,在途中,수송중,En transito,輸送中
+status_info,This Monster is being transferred to another chain.,Quái đang trong quá trình chuyển sang chuỗi khác,这个怪物正在被转移到另一个连锁店。,이 몬스타가 다른 체인으로 옮겨지는 중,Tu monstruo esta siendo transferido a otra red,このモンスターは別のチェーンに転送されています。
+in_metaverse,In Multiverse,Trong multiverse,在多元宇宙中,다중우주에 있음,En el multiverso,多元宇宙で
+status_info_porting,,Trạng thái cổng thông tin,门户状态,포털 상태,Información del portal,
+newest_session,Newest Session,Session mới nhất,最新会议,최근 세션,Nueva sesión,最新のセッション
+name_inc,Name Ascending,Tăng độ phổ biến,名称增加,인기 올림,Nombre en aumento,名前の増加
+name_dec,Name Descending,Giảm độ phổ biến,名称递减,인기 내림,Nombre en disminucion,名前の減少
+oldest_session,Oldest Session,Session cũ nhất,最早的会话,최고 세션,Sesión mas vieja,最古のセッション

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link
+      rel="icon"
+      href="https://staging.bcmhunt.com/news-letter/favicon.png"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link
+      rel="manifest"
+      href="https://staging.bcmhunt.com/news-letter/manifest.json"
+    />
+
+    <title>Newsletters</title>
+
+    <link
+      rel="stylesheet"
+      href="https://staging.bcmhunt.com/news-letter/assetsv2/css/font.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://staging.bcmhunt.com/news-letter/assetsv2/css/main.css"
+    />
+
+    <script type="text/javascript">
+      window.onload = function () {
+        userAgentDetect();
+
+        function showTableMobile() {
+          document.getElementById("table-mobile").style.display = "block";
+          document.getElementById("table-pc").style.display = "none";
+        }
+        function showTablePC() {
+          document.getElementById("table-mobile").style.display = "none";
+          document.getElementById("table-pc").style.display = "block";
+        }
+
+        function userAgentDetect() {
+          if (
+            window.navigator.userAgent.match(/Mobile/i) ||
+            window.navigator.userAgent.match(/iPhone/i) ||
+            window.navigator.userAgent.match(/iPod/i) ||
+            window.navigator.userAgent.match(/IEMobile/i) ||
+            window.navigator.userAgent.match(/Windows Phone/i) ||
+            window.navigator.userAgent.match(/Android/i) ||
+            window.navigator.userAgent.match(/BlackBerry/i) ||
+            window.navigator.userAgent.match(/webOS/i)
+          ) {
+            // document.body.className += ' mobile';
+            // alert('True - Mobile - ' + navigator.userAgent);
+            showTableMobile();
+          } else {
+            // alert('False - Mobile - ' + navigator.userAgent);
+            showTablePC();
+          }
+        }
+      };
+    </script>
+  </head>
+  <body>
+    <table
+      id="table-pc"
+      cellspacing="0"
+      cellpadding="0"
+      border="0"
+      style="
+        max-width: 720px;
+        width: 100%;
+        margin: 0 auto;
+        background-color: #330c5a;
+        border-radius: 8px;
+      "
+    >
+      <tr>
+        <td colspan="2" style="text-align: center">
+          <img
+            src="https://staging.bcmhunt.com/news-letter/assetsv2/images/logo-bg.png"
+            title="Logo"
+            alt="Logo"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center">
+          <h1
+            style="
+              font-size: 44px;
+              font-weight: 900;
+              line-height: 52px;
+              color: #fff;
+              font-family: BarlowCondensed-Regular, -apple-system, sans-serif;
+            "
+          >
+            Monthly Newsletter
+          </h1>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center">
+          <h1
+            style="
+              font-size: 34px;
+              line-height: 40px;
+              color: #fff;
+              font-family: BarlowCondensed-Regular, -apple-system, sans-serif;
+            "
+          >
+            MARCH 2022
+          </h1>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center; padding-top: 24px">
+          <a
+            href="https://bcmhunt.com/code/BCMHNEWS0222"
+            target="_blank"
+            style="cursor: pointer"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/1.png"
+              title="Click to claim"
+              alt="Click to claim"
+            />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center; padding-top: 24px">
+          <img
+            src="https://staging.bcmhunt.com/news-letter/assetsv2/images/2.png"
+            title="Moonbeam"
+            alt="Moonbeam"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-top: 24px">
+          <img
+            src="https://staging.bcmhunt.com/news-letter/assetsv2/images/3.png"
+            title="Staking"
+            alt="Staking"
+          />
+        </td>
+        <td style="text-align: center; padding-top: 24px">
+          <img
+            src="https://staging.bcmhunt.com/news-letter/assetsv2/images/4.png"
+            title="Metaverse"
+            alt="Metaverse"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center; padding-top: 24px">
+          <img
+            src="https://staging.bcmhunt.com/news-letter/assetsv2/images/5.png"
+            title="Energy"
+            alt="Energy"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-top: 24px">
+          <img
+            src="https://staging.bcmhunt.com/news-letter/assetsv2/images/6.png"
+            title="Mining"
+            alt="Mining"
+          />
+        </td>
+        <td style="text-align: center; padding-top: 24px">
+          <img
+            src="https://staging.bcmhunt.com/news-letter/assetsv2/images/7.png"
+            title="Game"
+            alt="Game"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="text-align: center; padding-top: 42px">
+          <h6
+            style="
+              font-size: 18px;
+              line-height: 26px;
+              color: rgba(255, 255, 255, 0.5);
+              font-family: BarlowCondensed-Regular, -apple-system, sans-serif;
+              border-top: 1px solid rgba(253, 156, 255, 0.23);
+              padding-top: 24px;
+            "
+          >
+            © 2021 BCM Innovation Ltd.
+          </h6>
+        </td>
+      </tr>
+      <tr>
+        <td
+          colspan="2"
+          style="text-align: center; padding-top: 24px; padding-bottom: 24px"
+        >
+          <a
+            href="mailto:contact@bcmhunt.com"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-email.png"
+              title="social email"
+              alt="social email"
+            />
+          </a>
+          <a
+            href="https://www.facebook.com/bcmhunt/"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-facebook.png"
+              title="social facebook"
+              alt="social facebook"
+            />
+          </a>
+          <a
+            href="https://twitter.com/bcmhunt"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-twitter.png"
+              title="social twitter"
+              alt="social twitter"
+            />
+          </a>
+          <a
+            href="https://t.me/BcmHuntGroup"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-telegram.png"
+              title="social telegram"
+              alt="social telegram"
+            />
+          </a>
+          <a
+            href="https://discord.gg/Ee9aJ287J2"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-discord.png"
+              title="social discord"
+              alt="social discord"
+            />
+          </a>
+          <a
+            href="https://blog.bcmhunt.com/"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-medium.png"
+              title="social medium"
+              alt="social medium"
+            />
+          </a>
+          <a
+            href="https://www.youtube.com/channel/UCzKIjqylMMBngslHazydgKQ"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-youtube.png"
+              title="social youtube"
+              alt="social youtube"
+            />
+          </a>
+          <a
+            href="https://www.tiktok.com/@bcmhunt?"
+            target="_blank"
+            style="padding-left: 16px"
+          >
+            <img
+              src="https://staging.bcmhunt.com/news-letter/assetsv2/images/social-tiktok.png"
+              title="social tiktok"
+              alt="social tiktok"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "attributes": "属性 ",
+  "born_chain": "出生链",
+  "born_block": "出生区块",
+  "species": "物种 ",
+  "type": "类型 ",
+  "class": "阶级",
+  "rarity": "稀有度 ",
+  "level": "等级 ",
+  "battle_power": "战斗力 ",
+  "perfection": "完美化",
+  "health": "健康",
+  "speed": "速度 ",
+  "attack": "攻击",
+  "defense": "防御",
+  "s_attack_s_defense": "特别攻击及特别防卫",
+  "general_info": "基本信息",
+  "battle_info": "战斗信息",
+  "success_rate": "成功率 ",
+  "success_rate_intro": "捕捉到魔物的机率"
+}

@@ -1,0 +1,21 @@
+{
+  "attributes": "Thuộc tính",
+  "born_chain": "Chuỗi Sinh Ra",
+  "born_block": "Khối Sinh Ra",
+  "species": "Chủng Loài",
+  "type": "Kiểu",
+  "class": "Lớp",
+  "rarity": "Độ Hiếm",
+  "level": "Cấp Độ",
+  "battle_power": "Sức Mạnh Chiến Đấu",
+  "perfection": "Sự Hoàn Hảo",
+  "health": "Sức Khoẻ",
+  "speed": "Tốc Độ",
+  "attack": "Tấn Công",
+  "defense": "Phòng Thủ",
+  "s_attack_s_defense": "Tấn Công Đặc Biệt & Phòng Thủ Đặc Biệt",
+  "general_info": "Thông Tin Chung",
+  "battle_info": "Thông Tin Trận Chiến",
+  "success_rate": "Tỷ Lệ Thắng",
+  "success_rate_intro": "Cơ Hội Để Bắt Quái Vật"
+}

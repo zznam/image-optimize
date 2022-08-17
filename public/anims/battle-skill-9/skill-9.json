@@ -1,0 +1,599 @@
+{"frames": {
+
+"battle-skill-spirit-0.png":
+{
+	"frame": {"x":1017,"y":245,"w":82,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":290,"w":82,"h":38},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-01.png":
+{
+	"frame": {"x":1017,"y":245,"w":82,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":290,"w":82,"h":38},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-02.png":
+{
+	"frame": {"x":1017,"y":245,"w":82,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":290,"w":82,"h":38},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-03.png":
+{
+	"frame": {"x":296,"y":880,"w":118,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":204,"w":118,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-04.png":
+{
+	"frame": {"x":296,"y":880,"w":118,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":204,"w":118,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-05.png":
+{
+	"frame": {"x":296,"y":880,"w":118,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":204,"w":118,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-06.png":
+{
+	"frame": {"x":156,"y":880,"w":120,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":204,"w":120,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-07.png":
+{
+	"frame": {"x":156,"y":880,"w":120,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":204,"w":120,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-08.png":
+{
+	"frame": {"x":156,"y":880,"w":120,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":204,"w":120,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-09.png":
+{
+	"frame": {"x":734,"y":941,"w":139,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":279,"w":139,"h":58},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-10.png":
+{
+	"frame": {"x":734,"y":941,"w":139,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":279,"w":139,"h":58},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-11.png":
+{
+	"frame": {"x":734,"y":941,"w":139,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":279,"w":139,"h":58},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-12.png":
+{
+	"frame": {"x":739,"y":869,"w":155,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":272,"w":155,"h":70},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-13.png":
+{
+	"frame": {"x":739,"y":869,"w":155,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":272,"w":155,"h":70},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-14.png":
+{
+	"frame": {"x":739,"y":869,"w":155,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":272,"w":155,"h":70},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-15.png":
+{
+	"frame": {"x":1254,"y":1,"w":122,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":204,"w":122,"h":139},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-16.png":
+{
+	"frame": {"x":1254,"y":1,"w":122,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":204,"w":122,"h":139},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-17.png":
+{
+	"frame": {"x":1254,"y":1,"w":122,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":204,"w":122,"h":139},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-18.png":
+{
+	"frame": {"x":1254,"y":125,"w":121,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":204,"w":121,"h":139},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-19.png":
+{
+	"frame": {"x":1254,"y":125,"w":121,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":204,"w":121,"h":139},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-20.png":
+{
+	"frame": {"x":1254,"y":125,"w":121,"h":139},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":204,"w":121,"h":139},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-21.png":
+{
+	"frame": {"x":1,"y":880,"w":153,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":202,"w":153,"h":135},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-22.png":
+{
+	"frame": {"x":1,"y":880,"w":153,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":202,"w":153,"h":135},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-23.png":
+{
+	"frame": {"x":1,"y":880,"w":153,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":202,"w":153,"h":135},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-24.png":
+{
+	"frame": {"x":574,"y":870,"w":158,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":202,"w":158,"h":140},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-25.png":
+{
+	"frame": {"x":574,"y":870,"w":158,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":202,"w":158,"h":140},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-26.png":
+{
+	"frame": {"x":574,"y":870,"w":158,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":202,"w":158,"h":140},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-27.png":
+{
+	"frame": {"x":436,"y":880,"w":136,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":226,"w":136,"h":106},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-28.png":
+{
+	"frame": {"x":436,"y":880,"w":136,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":226,"w":136,"h":106},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-29.png":
+{
+	"frame": {"x":436,"y":880,"w":136,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":226,"w":136,"h":106},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-30.png":
+{
+	"frame": {"x":509,"y":294,"w":458,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":0,"w":458,"h":333},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-31.png":
+{
+	"frame": {"x":509,"y":294,"w":458,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":0,"w":458,"h":333},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-32.png":
+{
+	"frame": {"x":509,"y":294,"w":458,"h":333},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":0,"w":458,"h":333},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-33.png":
+{
+	"frame": {"x":504,"y":587,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-34.png":
+{
+	"frame": {"x":504,"y":587,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-35.png":
+{
+	"frame": {"x":513,"y":1,"w":502,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":55,"w":502,"h":291},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-36.png":
+{
+	"frame": {"x":1,"y":1,"w":510,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":55,"w":510,"h":291},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-37.png":
+{
+	"frame": {"x":1,"y":587,"w":501,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":55,"w":501,"h":291},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-38.png":
+{
+	"frame": {"x":1,"y":294,"w":506,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":55,"w":506,"h":291},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-39.png":
+{
+	"frame": {"x":1,"y":294,"w":506,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":55,"w":506,"h":291},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-40.png":
+{
+	"frame": {"x":969,"y":534,"w":231,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":110,"w":231,"h":231},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-41.png":
+{
+	"frame": {"x":969,"y":534,"w":231,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":110,"w":231,"h":231},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-42.png":
+{
+	"frame": {"x":969,"y":534,"w":231,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":110,"w":231,"h":231},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-43.png":
+{
+	"frame": {"x":969,"y":534,"w":231,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":110,"w":231,"h":231},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-44.png":
+{
+	"frame": {"x":965,"y":767,"w":222,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":132,"w":222,"h":202},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-45.png":
+{
+	"frame": {"x":965,"y":767,"w":222,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":132,"w":222,"h":202},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-46.png":
+{
+	"frame": {"x":965,"y":767,"w":222,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":132,"w":222,"h":202},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-47.png":
+{
+	"frame": {"x":965,"y":767,"w":222,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":132,"w":222,"h":202},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-48.png":
+{
+	"frame": {"x":504,"y":629,"w":233,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":134,"w":233,"h":239},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-49.png":
+{
+	"frame": {"x":504,"y":629,"w":233,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":134,"w":233,"h":239},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-50.png":
+{
+	"frame": {"x":504,"y":629,"w":233,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":134,"w":233,"h":239},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-51.png":
+{
+	"frame": {"x":504,"y":629,"w":233,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":134,"w":233,"h":239},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-52.png":
+{
+	"frame": {"x":1017,"y":1,"w":235,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":370,"y":132,"w":235,"h":242},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-53.png":
+{
+	"frame": {"x":1017,"y":1,"w":235,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":370,"y":132,"w":235,"h":242},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-54.png":
+{
+	"frame": {"x":1017,"y":1,"w":235,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":370,"y":132,"w":235,"h":242},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-55.png":
+{
+	"frame": {"x":1017,"y":1,"w":235,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":370,"y":132,"w":235,"h":242},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-56.png":
+{
+	"frame": {"x":739,"y":629,"w":224,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":224,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-57.png":
+{
+	"frame": {"x":739,"y":629,"w":224,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":224,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-58.png":
+{
+	"frame": {"x":739,"y":629,"w":224,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":224,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-59.png":
+{
+	"frame": {"x":739,"y":629,"w":224,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":224,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-60.png":
+{
+	"frame": {"x":969,"y":294,"w":221,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":221,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-61.png":
+{
+	"frame": {"x":969,"y":294,"w":221,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":221,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-62.png":
+{
+	"frame": {"x":969,"y":294,"w":221,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":221,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-63.png":
+{
+	"frame": {"x":969,"y":294,"w":221,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":136,"w":221,"h":238},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-64.png":
+{
+	"frame": {"x":1202,"y":658,"w":153,"h":189},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":385,"y":132,"w":153,"h":189},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-65.png":
+{
+	"frame": {"x":1202,"y":658,"w":153,"h":189},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":385,"y":132,"w":153,"h":189},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-66.png":
+{
+	"frame": {"x":1202,"y":658,"w":153,"h":189},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":385,"y":132,"w":153,"h":189},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-67.png":
+{
+	"frame": {"x":1192,"y":248,"w":203,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":138,"w":203,"h":180},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-68.png":
+{
+	"frame": {"x":1192,"y":248,"w":203,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":138,"w":203,"h":180},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-69.png":
+{
+	"frame": {"x":1192,"y":248,"w":203,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":138,"w":203,"h":180},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-70.png":
+{
+	"frame": {"x":1192,"y":248,"w":203,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":138,"w":203,"h":180},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-71.png":
+{
+	"frame": {"x":1202,"y":453,"w":203,"h":179},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":139,"w":203,"h":179},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-spirit-72.png":
+{
+	"frame": {"x":1189,"y":813,"w":203,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":399,"y":139,"w":203,"h":179},
+	"sourceSize": {"w":640,"h":400}
+}},
+"animations": {
+	"battle-skill-spirit": ["battle-skill-spirit-0.png","battle-skill-spirit-01.png","battle-skill-spirit-02.png","battle-skill-spirit-03.png","battle-skill-spirit-04.png","battle-skill-spirit-05.png","battle-skill-spirit-06.png","battle-skill-spirit-07.png","battle-skill-spirit-08.png","battle-skill-spirit-09.png","battle-skill-spirit-10.png","battle-skill-spirit-11.png","battle-skill-spirit-12.png","battle-skill-spirit-13.png","battle-skill-spirit-14.png","battle-skill-spirit-15.png","battle-skill-spirit-16.png","battle-skill-spirit-17.png","battle-skill-spirit-18.png","battle-skill-spirit-19.png","battle-skill-spirit-20.png","battle-skill-spirit-21.png","battle-skill-spirit-22.png","battle-skill-spirit-23.png","battle-skill-spirit-24.png","battle-skill-spirit-25.png","battle-skill-spirit-26.png","battle-skill-spirit-27.png","battle-skill-spirit-28.png","battle-skill-spirit-29.png","battle-skill-spirit-30.png","battle-skill-spirit-31.png","battle-skill-spirit-32.png","battle-skill-spirit-33.png","battle-skill-spirit-34.png","battle-skill-spirit-35.png","battle-skill-spirit-36.png","battle-skill-spirit-37.png","battle-skill-spirit-38.png","battle-skill-spirit-39.png","battle-skill-spirit-40.png","battle-skill-spirit-41.png","battle-skill-spirit-42.png","battle-skill-spirit-43.png","battle-skill-spirit-44.png","battle-skill-spirit-45.png","battle-skill-spirit-46.png","battle-skill-spirit-47.png","battle-skill-spirit-48.png","battle-skill-spirit-49.png","battle-skill-spirit-50.png","battle-skill-spirit-51.png","battle-skill-spirit-52.png","battle-skill-spirit-53.png","battle-skill-spirit-54.png","battle-skill-spirit-55.png","battle-skill-spirit-56.png","battle-skill-spirit-57.png","battle-skill-spirit-58.png","battle-skill-spirit-59.png","battle-skill-spirit-60.png","battle-skill-spirit-61.png","battle-skill-spirit-62.png","battle-skill-spirit-63.png","battle-skill-spirit-64.png","battle-skill-spirit-65.png","battle-skill-spirit-66.png","battle-skill-spirit-67.png","battle-skill-spirit-68.png","battle-skill-spirit-69.png","battle-skill-spirit-70.png","battle-skill-spirit-71.png","battle-skill-spirit-72.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "skill-9.png",
+	"format": "RGBA8888",
+	"size": {"w":1394,"h":1016},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5f3153815bc1043d23438d654d682690:d063d95b9416ec9aa684c2cc011f024c:a3cc3a07fffc64d4d855ab3dca002445$"
+}
+}

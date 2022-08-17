@@ -1,0 +1,1658 @@
+{
+  "frames": {
+    "battle-skill-electric-0.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-01.png": {
+      "frame": {
+        "x": 1,
+        "y": 276,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-02.png": {
+      "frame": {
+        "x": 272,
+        "y": 1,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-03.png": {
+      "frame": {
+        "x": 814,
+        "y": 276,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-04.png": {
+      "frame": {
+        "x": 1085,
+        "y": 1,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-05.png": {
+      "frame": {
+        "x": 1085,
+        "y": 276,
+        "w": 241,
+        "h": 241
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 85,
+        "w": 241,
+        "h": 241
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-06.png": {
+      "frame": {
+        "x": 208,
+        "y": 826,
+        "w": 193,
+        "h": 205
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 118,
+        "w": 193,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-07.png": {
+      "frame": {
+        "x": 1538,
+        "y": 203,
+        "w": 158,
+        "h": 180
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 138,
+        "w": 158,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-08.png": {
+      "frame": {
+        "x": 1085,
+        "y": 519,
+        "w": 137,
+        "h": 151
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 161,
+        "w": 137,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-09.png": {
+      "frame": {
+        "x": 1369,
+        "y": 504,
+        "w": 129,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 178,
+        "w": 129,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-10.png": {
+      "frame": {
+        "x": 968,
+        "y": 794,
+        "w": 117,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 194,
+        "w": 117,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-11.png": {
+      "frame": {
+        "x": 1202,
+        "y": 658,
+        "w": 99,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 118,
+        "y": 194,
+        "w": 99,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-12.png": {
+      "frame": {
+        "x": 1303,
+        "y": 650,
+        "w": 86,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 118,
+        "y": 196,
+        "w": 86,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-13.png": {
+      "frame": {
+        "x": 1391,
+        "y": 635,
+        "w": 81,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 199,
+        "w": 81,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-14.png": {
+      "frame": {
+        "x": 1624,
+        "y": 639,
+        "w": 73,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 121,
+        "y": 207,
+        "w": 73,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-15.png": {
+      "frame": {
+        "x": 1500,
+        "y": 565,
+        "w": 64,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 129,
+        "y": 211,
+        "w": 64,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-16.png": {
+      "frame": {
+        "x": 1279,
+        "y": 960,
+        "w": 58,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 211,
+        "w": 58,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-17.png": {
+      "frame": {
+        "x": 1397,
+        "y": 960,
+        "w": 52,
+        "h": 51
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 216,
+        "w": 52,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-18.png": {
+      "frame": {
+        "x": 1343,
+        "y": 960,
+        "w": 52,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 217,
+        "w": 52,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-19.png": {
+      "frame": {
+        "x": 1658,
+        "y": 491,
+        "w": 58,
+        "h": 60
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 212,
+        "w": 58,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-20.png": {
+      "frame": {
+        "x": 1,
+        "y": 551,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-21.png": {
+      "frame": {
+        "x": 272,
+        "y": 276,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-22.png": {
+      "frame": {
+        "x": 543,
+        "y": 1,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-23.png": {
+      "frame": {
+        "x": 272,
+        "y": 551,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-24.png": {
+      "frame": {
+        "x": 543,
+        "y": 276,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-25.png": {
+      "frame": {
+        "x": 814,
+        "y": 1,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-26.png": {
+      "frame": {
+        "x": 543,
+        "y": 551,
+        "w": 269,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 53,
+        "w": 269,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-27.png": {
+      "frame": {
+        "x": 814,
+        "y": 551,
+        "w": 241,
+        "h": 241
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 85,
+        "w": 241,
+        "h": 241
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-28.png": {
+      "frame": {
+        "x": 1,
+        "y": 826,
+        "w": 193,
+        "h": 205
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 118,
+        "w": 193,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-29.png": {
+      "frame": {
+        "x": 1356,
+        "y": 203,
+        "w": 158,
+        "h": 180
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 138,
+        "w": 158,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-30.png": {
+      "frame": {
+        "x": 794,
+        "y": 880,
+        "w": 137,
+        "h": 151
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 161,
+        "w": 137,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-31.png": {
+      "frame": {
+        "x": 1238,
+        "y": 519,
+        "w": 129,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 178,
+        "w": 129,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-32.png": {
+      "frame": {
+        "x": 1087,
+        "y": 791,
+        "w": 117,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 194,
+        "w": 117,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-33.png": {
+      "frame": {
+        "x": 947,
+        "y": 904,
+        "w": 102,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 194,
+        "w": 102,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-34.png": {
+      "frame": {
+        "x": 1623,
+        "y": 1,
+        "w": 95,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 196,
+        "w": 95,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-35.png": {
+      "frame": {
+        "x": 1623,
+        "y": 95,
+        "w": 90,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 198,
+        "w": 90,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-36.png": {
+      "frame": {
+        "x": 1206,
+        "y": 761,
+        "w": 81,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 202,
+        "w": 81,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-37.png": {
+      "frame": {
+        "x": 1582,
+        "y": 491,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 206,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-38.png": {
+      "frame": {
+        "x": 1582,
+        "y": 491,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 191,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-39.png": {
+      "frame": {
+        "x": 1566,
+        "y": 565,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 148,
+        "y": 183,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-40.png": {
+      "frame": {
+        "x": 1642,
+        "y": 565,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 178,
+        "y": 174,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-41.png": {
+      "frame": {
+        "x": 1642,
+        "y": 565,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 193,
+        "y": 174,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-42.png": {
+      "frame": {
+        "x": 1368,
+        "y": 812,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 213,
+        "y": 178,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-43.png": {
+      "frame": {
+        "x": 1368,
+        "y": 812,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 228,
+        "y": 187,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-44.png": {
+      "frame": {
+        "x": 1363,
+        "y": 886,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 248,
+        "y": 197,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-45.png": {
+      "frame": {
+        "x": 1363,
+        "y": 886,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 258,
+        "y": 211,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-46.png": {
+      "frame": {
+        "x": 1548,
+        "y": 639,
+        "w": 74,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 272,
+        "y": 225,
+        "w": 74,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-47.png": {
+      "frame": {
+        "x": 1548,
+        "y": 639,
+        "w": 74,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 280,
+        "y": 240,
+        "w": 74,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-48.png": {
+      "frame": {
+        "x": 1363,
+        "y": 886,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 293,
+        "y": 258,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-49.png": {
+      "frame": {
+        "x": 1363,
+        "y": 886,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 293,
+        "y": 258,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-50.png": {
+      "frame": {
+        "x": 1363,
+        "y": 886,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 293,
+        "y": 258,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-51.png": {
+      "frame": {
+        "x": 1439,
+        "y": 886,
+        "w": 72,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 299,
+        "y": 258,
+        "w": 72,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-52.png": {
+      "frame": {
+        "x": 1444,
+        "y": 792,
+        "w": 72,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 306,
+        "y": 257,
+        "w": 72,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-53.png": {
+      "frame": {
+        "x": 1051,
+        "y": 904,
+        "w": 72,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 313,
+        "y": 256,
+        "w": 72,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-54.png": {
+      "frame": {
+        "x": 1474,
+        "y": 635,
+        "w": 72,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 320,
+        "y": 257,
+        "w": 72,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-55.png": {
+      "frame": {
+        "x": 1391,
+        "y": 718,
+        "w": 72,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 328,
+        "y": 258,
+        "w": 72,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-56.png": {
+      "frame": {
+        "x": 1622,
+        "y": 714,
+        "w": 72,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 335,
+        "y": 260,
+        "w": 72,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-57.png": {
+      "frame": {
+        "x": 1513,
+        "y": 868,
+        "w": 72,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 260,
+        "w": 72,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-58.png": {
+      "frame": {
+        "x": 1470,
+        "y": 718,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 350,
+        "y": 260,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-59.png": {
+      "frame": {
+        "x": 1206,
+        "y": 843,
+        "w": 77,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 356,
+        "y": 260,
+        "w": 77,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-60.png": {
+      "frame": {
+        "x": 1200,
+        "y": 917,
+        "w": 77,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 363,
+        "y": 260,
+        "w": 77,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-61.png": {
+      "frame": {
+        "x": 1303,
+        "y": 738,
+        "w": 77,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 370,
+        "y": 260,
+        "w": 77,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-62.png": {
+      "frame": {
+        "x": 1546,
+        "y": 714,
+        "w": 74,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 377,
+        "y": 260,
+        "w": 74,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-63.png": {
+      "frame": {
+        "x": 1513,
+        "y": 942,
+        "w": 72,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 387,
+        "y": 259,
+        "w": 72,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-64.png": {
+      "frame": {
+        "x": 1518,
+        "y": 792,
+        "w": 72,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 395,
+        "y": 259,
+        "w": 72,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-65.png": {
+      "frame": {
+        "x": 1285,
+        "y": 886,
+        "w": 72,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 402,
+        "y": 257,
+        "w": 72,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-66.png": {
+      "frame": {
+        "x": 1289,
+        "y": 812,
+        "w": 72,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 409,
+        "y": 255,
+        "w": 72,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-67.png": {
+      "frame": {
+        "x": 1125,
+        "y": 901,
+        "w": 73,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 417,
+        "y": 255,
+        "w": 73,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-68.png": {
+      "frame": {
+        "x": 1592,
+        "y": 788,
+        "w": 72,
+        "h": 74
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 426,
+        "y": 256,
+        "w": 72,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-69.png": {
+      "frame": {
+        "x": 1587,
+        "y": 868,
+        "w": 72,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 435,
+        "y": 257,
+        "w": 72,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-70.png": {
+      "frame": {
+        "x": 1505,
+        "y": 491,
+        "w": 75,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 441,
+        "y": 257,
+        "w": 75,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-71.png": {
+      "frame": {
+        "x": 814,
+        "y": 794,
+        "w": 152,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 398,
+        "y": 252,
+        "w": 152,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-72.png": {
+      "frame": {
+        "x": 1057,
+        "y": 658,
+        "w": 143,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 407,
+        "y": 209,
+        "w": 143,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-73.png": {
+      "frame": {
+        "x": 1505,
+        "y": 363,
+        "w": 175,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 392,
+        "y": 218,
+        "w": 175,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-74.png": {
+      "frame": {
+        "x": 1328,
+        "y": 363,
+        "w": 175,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 392,
+        "y": 218,
+        "w": 175,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-75.png": {
+      "frame": {
+        "x": 626,
+        "y": 826,
+        "w": 187,
+        "h": 166
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 380,
+        "y": 201,
+        "w": 187,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-76.png": {
+      "frame": {
+        "x": 415,
+        "y": 826,
+        "w": 209,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 371,
+        "y": 196,
+        "w": 209,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    },
+    "battle-skill-electric-77.png": {
+      "frame": {
+        "x": 1356,
+        "y": 1,
+        "w": 265,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 175,
+        "w": 265,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 400
+      }
+    }
+  },
+  "animations": {
+    "battle-skill-electric": [
+      "battle-skill-electric-0.png",
+      "battle-skill-electric-01.png",
+      "battle-skill-electric-02.png",
+      "battle-skill-electric-03.png",
+      "battle-skill-electric-04.png",
+      "battle-skill-electric-05.png",
+      "battle-skill-electric-06.png",
+      "battle-skill-electric-07.png",
+      "battle-skill-electric-08.png",
+      "battle-skill-electric-09.png",
+      "battle-skill-electric-10.png",
+      "battle-skill-electric-11.png",
+      "battle-skill-electric-12.png",
+      "battle-skill-electric-13.png",
+      "battle-skill-electric-14.png",
+      "battle-skill-electric-15.png",
+      "battle-skill-electric-16.png",
+      "battle-skill-electric-17.png",
+      "battle-skill-electric-18.png",
+      "battle-skill-electric-19.png",
+      "battle-skill-electric-20.png",
+      "battle-skill-electric-21.png",
+      "battle-skill-electric-22.png",
+      "battle-skill-electric-23.png",
+      "battle-skill-electric-24.png",
+      "battle-skill-electric-25.png",
+      "battle-skill-electric-26.png",
+      "battle-skill-electric-27.png",
+      "battle-skill-electric-28.png",
+      "battle-skill-electric-29.png",
+      "battle-skill-electric-30.png",
+      "battle-skill-electric-31.png",
+      "battle-skill-electric-32.png",
+      "battle-skill-electric-33.png",
+      "battle-skill-electric-34.png",
+      "battle-skill-electric-35.png",
+      "battle-skill-electric-36.png",
+      "battle-skill-electric-37.png",
+      "battle-skill-electric-38.png",
+      "battle-skill-electric-39.png",
+      "battle-skill-electric-40.png",
+      "battle-skill-electric-41.png",
+      "battle-skill-electric-42.png",
+      "battle-skill-electric-43.png",
+      "battle-skill-electric-44.png",
+      "battle-skill-electric-45.png",
+      "battle-skill-electric-46.png",
+      "battle-skill-electric-47.png",
+      "battle-skill-electric-48.png",
+      "battle-skill-electric-49.png",
+      "battle-skill-electric-50.png",
+      "battle-skill-electric-51.png",
+      "battle-skill-electric-52.png",
+      "battle-skill-electric-53.png",
+      "battle-skill-electric-54.png",
+      "battle-skill-electric-55.png",
+      "battle-skill-electric-56.png",
+      "battle-skill-electric-57.png",
+      "battle-skill-electric-58.png",
+      "battle-skill-electric-59.png",
+      "battle-skill-electric-60.png",
+      "battle-skill-electric-61.png",
+      "battle-skill-electric-62.png",
+      "battle-skill-electric-63.png",
+      "battle-skill-electric-64.png",
+      "battle-skill-electric-65.png",
+      "battle-skill-electric-66.png",
+      "battle-skill-electric-67.png",
+      "battle-skill-electric-68.png",
+      "battle-skill-electric-69.png",
+      "battle-skill-electric-70.png",
+      "battle-skill-electric-71.png",
+      "battle-skill-electric-72.png",
+      "battle-skill-electric-73.png",
+      "battle-skill-electric-74.png",
+      "battle-skill-electric-75.png",
+      "battle-skill-electric-76.png",
+      "battle-skill-electric-77.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "skill-2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1719,
+      "h": 1020
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:face01e0b8cc81d21cb8c2ccd012f675:deac8aa8d415ea6a34ca2a9d1b3f59a3:f694436d93d6ac2ab666bb5c320ab5d5$"
+  }
+}

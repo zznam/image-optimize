@@ -1,0 +1,95 @@
+{"frames": {
+
+"emoticon_37_01.png":
+{
+	"frame": {"x":645,"y":644,"w":320,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":320,"h":313},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_02.png":
+{
+	"frame": {"x":1,"y":323,"w":320,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":320,"h":319},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_03.png":
+{
+	"frame": {"x":1,"y":1,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_04.png":
+{
+	"frame": {"x":323,"y":323,"w":320,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":320,"h":319},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_05.png":
+{
+	"frame": {"x":645,"y":959,"w":320,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":320,"h":313},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_06.png":
+{
+	"frame": {"x":323,"y":1,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_07.png":
+{
+	"frame": {"x":645,"y":1,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_08.png":
+{
+	"frame": {"x":1,"y":644,"w":320,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":320,"h":317},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_09.png":
+{
+	"frame": {"x":323,"y":644,"w":320,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":320,"h":317},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_37_10.png":
+{
+	"frame": {"x":645,"y":323,"w":320,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":320,"h":319},
+	"sourceSize": {"w":320,"h":320}
+}},
+"animations": {
+	"emoticon_37": ["emoticon_37_01.png","emoticon_37_02.png","emoticon_37_03.png","emoticon_37_04.png","emoticon_37_05.png","emoticon_37_06.png","emoticon_37_07.png","emoticon_37_08.png","emoticon_37_09.png","emoticon_37_10.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "emoticon_37.png",
+	"format": "RGBA8888",
+	"size": {"w":966,"h":1273},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:93e03694789e918e491d050cf827c98b:cfec216dd7fa046959bd3ef4108ee8e2:d70b29de3d7afbaf880e8c7c65a351e8$"
+}
+}

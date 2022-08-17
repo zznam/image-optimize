@@ -1,0 +1,103 @@
+{"frames": {
+
+"emoticon_0_00.png":
+{
+	"frame": {"x":1,"y":840,"w":320,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":132,"w":320,"h":188},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_01.png":
+{
+	"frame": {"x":323,"y":1,"w":320,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":320,"h":277},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_02.png":
+{
+	"frame": {"x":1,"y":1,"w":320,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":320,"h":278},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_03.png":
+{
+	"frame": {"x":1,"y":281,"w":320,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":320,"h":278},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_04.png":
+{
+	"frame": {"x":645,"y":645,"w":320,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":44,"w":320,"h":276},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_05.png":
+{
+	"frame": {"x":645,"y":1,"w":320,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":320,"h":277},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_06.png":
+{
+	"frame": {"x":323,"y":280,"w":320,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":320,"h":277},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_07.png":
+{
+	"frame": {"x":645,"y":323,"w":320,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":320,"h":277},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_08.png":
+{
+	"frame": {"x":1,"y":561,"w":320,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":320,"h":277},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_09.png":
+{
+	"frame": {"x":323,"y":559,"w":320,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":320,"h":277},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_0_10.png":
+{
+	"frame": {"x":323,"y":838,"w":320,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":78,"w":320,"h":242},
+	"sourceSize": {"w":320,"h":320}
+}},
+"animations": {
+	"emoticon_0": ["emoticon_0_00.png","emoticon_0_01.png","emoticon_0_02.png","emoticon_0_03.png","emoticon_0_04.png","emoticon_0_05.png","emoticon_0_06.png","emoticon_0_07.png","emoticon_0_08.png","emoticon_0_09.png","emoticon_0_10.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "emoticon_0.png",
+	"format": "RGBA8888",
+	"size": {"w":923,"h":1081},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:968d0cfed83681025d2a536153e31810:b3aff0fc57c0f78e9ea83283a30ddeaf:7b35771da23cb6ddf5e5930d88dc4d03$"
+}
+}

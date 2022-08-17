@@ -1,0 +1,64 @@
+{"frames": {
+
+"battle-skill-dark-52.png":
+{
+	"frame": {"x":608,"y":292,"w":248,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":348,"y":157,"w":248,"h":207},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-dark-54.png":
+{
+	"frame": {"x":629,"y":1,"w":289,"h":235},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":332,"y":143,"w":289,"h":235},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-dark-55.png":
+{
+	"frame": {"x":317,"y":250,"w":289,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":332,"y":143,"w":289,"h":235},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-dark-56.png":
+{
+	"frame": {"x":1,"y":254,"w":289,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":332,"y":143,"w":289,"h":235},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-dark-60.png":
+{
+	"frame": {"x":317,"y":1,"w":310,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":137,"w":310,"h":247},
+	"sourceSize": {"w":640,"h":400}
+},
+"battle-skill-dark-61.png":
+{
+	"frame": {"x":1,"y":1,"w":314,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":320,"y":134,"w":314,"h":251},
+	"sourceSize": {"w":640,"h":400}
+}},
+"animations": {
+	"battle-skill-dark": ["battle-skill-dark-52.png","battle-skill-dark-54.png","battle-skill-dark-55.png","battle-skill-dark-56.png","battle-skill-dark-60.png","battle-skill-dark-61.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "skill-7-1.png",
+	"format": "RGBA8888",
+	"size": {"w":865,"h":500},
+	"scale": "1",
+	"related_multi_packs": [ "skill-7.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:fc02cbb5755381dbcfb1dc31c66b5921:9d265fa1a67287b0ada0dbe84724f1ed:46582f2942b4d68e5592f6a26d3923c3$"
+}
+}

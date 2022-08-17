@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="https://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="https://www.w3.org/1999/xhtml" xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://bcmhunt.com/</loc> </url>
+<url> <loc>https://bcmhunt.com/profile</loc> </url>
+<url> <loc>https://bcmhunt.com/new_metaverse</loc> </url>
+<url> <loc>https://bcmhunt.com/catch_pve</loc> </url>
+<url> <loc>https://bcmhunt.com/energy</loc> </url>
+<url> <loc>https://bcmhunt.com/bcmcclaim</loc> </url>
+<url> <loc>https://bcmhunt.com/tier-list</loc> </url>
+<url> <loc>https://bcmhunt.com/bridge</loc> </url>
+<url> <loc>https://bcmhunt.com/marketplace</loc> </url>
+<url> <loc>https://bcmhunt.com/portfolio</loc> </url>
+<url> <loc>https://bcmhunt.com/play</loc> </url>
+<url> <loc>https://bcmhunt.com/metaverse</loc> </url>
+<url> <loc>https://bcmhunt.com/staking</loc> </url>
+<url> <loc>https://bcmhunt.com/code/:referId</loc> </url>
+<url> <loc>https://bcmhunt.com/referral</loc> </url>
+<url> <loc>https://bcmhunt.com/staking/genesis-pool/:stakeId</loc> </url>
+<url> <loc>https://bcmhunt.com/staking/wild-pool/:stakeId</loc> </url>
+<url> <loc>https://bcmhunt.com/gem</loc> </url>
+<url> <loc>https://bcmhunt.com/history</loc> </url>
+<url> <loc>https://bcmhunt.com/battle_pve</loc> </url>
+<url> <loc>https://bcmhunt.com/battle_pvp</loc> </url>
+<url> <loc>https://bcmhunt.com/battle/:battleId</loc> </url>
+<url> <loc>https://bcmhunt.com/catch/:chainId/:tokenId</loc> </url>
+<url> <loc>https://bcmhunt.com/share/:shareAddress</loc> </url>
+<url> <loc>https://bcmhunt.com/leaderboard-player</loc> </url>
+<url> <loc>https://bcmhunt.com/leaderboard-monster</loc> </url>
+<url> <loc>https://bcmhunt.com/guildmember/:guildAddress/:memberId</loc> </url>
+<url> <loc>https://bcmhunt.com/battle_prototype</loc> </url>
+</urlset>

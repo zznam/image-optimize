@@ -1,0 +1,231 @@
+{"frames": {
+
+"emoticon_6_00.png":
+{
+	"frame": {"x":1,"y":1,"w":299,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":57,"w":299,"h":256},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_01.png":
+{
+	"frame": {"x":1187,"y":1,"w":297,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":47,"w":297,"h":266},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_02.png":
+{
+	"frame": {"x":1470,"y":269,"w":295,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":295,"h":270},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_03.png":
+{
+	"frame": {"x":302,"y":805,"w":293,"h":274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":39,"w":293,"h":274},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_04.png":
+{
+	"frame": {"x":891,"y":811,"w":291,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":37,"w":291,"h":276},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_05.png":
+{
+	"frame": {"x":1487,"y":541,"w":288,"h":274},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":39,"w":288,"h":274},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_06.png":
+{
+	"frame": {"x":1767,"y":269,"w":286,"h":270},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":43,"w":286,"h":270},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_07.png":
+{
+	"frame": {"x":302,"y":261,"w":284,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":47,"w":284,"h":266},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_08.png":
+{
+	"frame": {"x":603,"y":1,"w":285,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":53,"w":285,"h":261},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_09.png":
+{
+	"frame": {"x":1182,"y":269,"w":286,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":47,"w":286,"h":267},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_10.png":
+{
+	"frame": {"x":603,"y":535,"w":288,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":43,"w":288,"h":271},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_11.png":
+{
+	"frame": {"x":1763,"y":557,"w":289,"h":275},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":39,"w":289,"h":275},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_12.png":
+{
+	"frame": {"x":1484,"y":831,"w":291,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":37,"w":291,"h":277},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_13.png":
+{
+	"frame": {"x":597,"y":808,"w":292,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":39,"w":292,"h":275},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_14.png":
+{
+	"frame": {"x":893,"y":538,"w":293,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":43,"w":293,"h":271},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_15.png":
+{
+	"frame": {"x":588,"y":264,"w":294,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":47,"w":294,"h":267},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_16.png":
+{
+	"frame": {"x":890,"y":1,"w":295,"h":263},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":51,"w":295,"h":263},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_17.png":
+{
+	"frame": {"x":884,"y":266,"w":296,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":296,"h":267},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_18.png":
+{
+	"frame": {"x":1188,"y":541,"w":297,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":43,"w":297,"h":271},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_19.png":
+{
+	"frame": {"x":1184,"y":814,"w":298,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":39,"w":298,"h":275},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_20.png":
+{
+	"frame": {"x":1763,"y":848,"w":298,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":37,"w":298,"h":276},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_21.png":
+{
+	"frame": {"x":1,"y":799,"w":299,"h":274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":39,"w":299,"h":274},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_22.png":
+{
+	"frame": {"x":1,"y":527,"w":299,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":43,"w":299,"h":270},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_23.png":
+{
+	"frame": {"x":1486,"y":1,"w":299,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":47,"w":299,"h":266},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_24.png":
+{
+	"frame": {"x":302,"y":1,"w":299,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":55,"w":299,"h":258},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_25.png":
+{
+	"frame": {"x":1,"y":259,"w":299,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":47,"w":299,"h":266},
+	"sourceSize": {"w":320,"h":320}
+},
+"emoticon_6_26.png":
+{
+	"frame": {"x":302,"y":533,"w":299,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":43,"w":299,"h":270},
+	"sourceSize": {"w":320,"h":320}
+}},
+"animations": {
+	"emoticon_6": ["emoticon_6_00.png","emoticon_6_01.png","emoticon_6_02.png","emoticon_6_03.png","emoticon_6_04.png","emoticon_6_05.png","emoticon_6_06.png","emoticon_6_07.png","emoticon_6_08.png","emoticon_6_09.png","emoticon_6_10.png","emoticon_6_11.png","emoticon_6_12.png","emoticon_6_13.png","emoticon_6_14.png","emoticon_6_15.png","emoticon_6_16.png","emoticon_6_17.png","emoticon_6_18.png","emoticon_6_19.png","emoticon_6_20.png","emoticon_6_21.png","emoticon_6_22.png","emoticon_6_23.png","emoticon_6_24.png","emoticon_6_25.png","emoticon_6_26.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "emoticon_6.png",
+	"format": "RGBA8888",
+	"size": {"w":2040,"h":1147},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:915596a286924d5fcb89c9b1d98bb18a:bba8f7b4da4f9157ae9faca00af14669:2e5a283d45d9cb0047440e3a4ef2ed5f$"
+}
+}

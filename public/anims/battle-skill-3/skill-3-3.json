@@ -1,0 +1,439 @@
+{"frames": {
+
+"Water-Skill-1-00.png":
+{
+	"frame": {"x":617,"y":475,"w":105,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":276,"w":105,"h":61},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-01.png":
+{
+	"frame": {"x":771,"y":1078,"w":107,"h":53},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":284,"w":107,"h":53},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-02.png":
+{
+	"frame": {"x":756,"y":1187,"w":107,"h":54},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":283,"w":107,"h":54},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-03.png":
+{
+	"frame": {"x":654,"y":1273,"w":98,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":283,"w":98,"h":54},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-04.png":
+{
+	"frame": {"x":617,"y":582,"w":100,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":279,"w":100,"h":58},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-05.png":
+{
+	"frame": {"x":95,"y":1182,"w":107,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":264,"w":107,"h":73},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-06.png":
+{
+	"frame": {"x":611,"y":684,"w":107,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":261,"w":107,"h":76},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-07.png":
+{
+	"frame": {"x":191,"y":1087,"w":107,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":261,"w":107,"h":76},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-08.png":
+{
+	"frame": {"x":170,"y":1196,"w":98,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":259,"w":98,"h":78},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-09.png":
+{
+	"frame": {"x":326,"y":289,"w":93,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":293,"w":93,"h":38},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-10.png":
+{
+	"frame": {"x":326,"y":195,"w":92,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":288,"w":92,"h":43},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-11.png":
+{
+	"frame": {"x":170,"y":1276,"w":92,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":276,"w":92,"h":55},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-12.png":
+{
+	"frame": {"x":851,"y":433,"w":96,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":216,"w":96,"h":115},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-13.png":
+{
+	"frame": {"x":837,"y":550,"w":96,"h":115},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":216,"w":96,"h":115},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-14.png":
+{
+	"frame": {"x":1,"y":1087,"w":99,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":216,"w":99,"h":92},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-15.png":
+{
+	"frame": {"x":1,"y":1188,"w":97,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":216,"w":97,"h":92},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-16.png":
+{
+	"frame": {"x":837,"y":746,"w":101,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":210,"w":101,"h":99},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-17.png":
+{
+	"frame": {"x":826,"y":1046,"w":100,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":213,"w":100,"h":96},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-18.png":
+{
+	"frame": {"x":95,"y":1087,"w":94,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":216,"w":94,"h":93},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-19.png":
+{
+	"frame": {"x":554,"y":1194,"w":98,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":214,"w":98,"h":95},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-20.png":
+{
+	"frame": {"x":812,"y":1242,"w":93,"h":99},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":209,"w":93,"h":99},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-21.png":
+{
+	"frame": {"x":584,"y":893,"w":95,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":211,"w":95,"h":103},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-22.png":
+{
+	"frame": {"x":826,"y":1144,"w":99,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":215,"w":99,"h":96},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-23.png":
+{
+	"frame": {"x":554,"y":1096,"w":99,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":215,"w":99,"h":96},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-24.png":
+{
+	"frame": {"x":655,"y":1175,"w":96,"h":99},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":214,"w":96,"h":99},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-25.png":
+{
+	"frame": {"x":668,"y":1078,"w":101,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":213,"w":101,"h":95},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-26.png":
+{
+	"frame": {"x":826,"y":947,"w":97,"h":99},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":212,"w":97,"h":99},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-27.png":
+{
+	"frame": {"x":584,"y":793,"w":98,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":212,"w":98,"h":100},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-28.png":
+{
+	"frame": {"x":826,"y":847,"w":99,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":213,"w":99,"h":98},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-29.png":
+{
+	"frame": {"x":566,"y":998,"w":100,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":215,"w":100,"h":96},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-30.png":
+{
+	"frame": {"x":837,"y":648,"w":110,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":215,"w":110,"h":96},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-31.png":
+{
+	"frame": {"x":851,"y":306,"w":125,"h":98},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":210,"w":125,"h":98},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-32.png":
+{
+	"frame": {"x":851,"y":169,"w":135,"h":97},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":211,"w":135,"h":97},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-33.png":
+{
+	"frame": {"x":855,"y":1,"w":166,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":214,"w":166,"h":84},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-34.png":
+{
+	"frame": {"x":371,"y":1,"w":482,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":208,"w":482,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-35.png":
+{
+	"frame": {"x":1,"y":1,"w":368,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":171,"w":368,"h":192},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-36.png":
+{
+	"frame": {"x":1,"y":364,"w":315,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":171,"w":315,"h":169},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-37.png":
+{
+	"frame": {"x":371,"y":141,"w":323,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":171,"w":323,"h":169},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-38.png":
+{
+	"frame": {"x":366,"y":312,"w":323,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":171,"w":323,"h":161},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-39.png":
+{
+	"frame": {"x":1,"y":195,"w":323,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":179,"w":323,"h":167},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-40.png":
+{
+	"frame": {"x":696,"y":141,"w":323,"h":153},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":179,"w":323,"h":153},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-41.png":
+{
+	"frame": {"x":691,"y":466,"w":330,"h":144},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":188,"w":330,"h":144},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-42.png":
+{
+	"frame": {"x":318,"y":475,"w":297,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":188,"w":297,"h":143},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-43.png":
+{
+	"frame": {"x":1,"y":810,"w":282,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":188,"w":282,"h":136},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-44.png":
+{
+	"frame": {"x":285,"y":894,"w":279,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":345,"y":188,"w":279,"h":137},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-45.png":
+{
+	"frame": {"x":1,"y":948,"w":278,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":347,"y":188,"w":278,"h":137},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-46.png":
+{
+	"frame": {"x":686,"y":798,"w":278,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":188,"w":278,"h":138},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-47.png":
+{
+	"frame": {"x":417,"y":1033,"w":278,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":188,"w":278,"h":135},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-48.png":
+{
+	"frame": {"x":296,"y":757,"w":286,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":333,"y":188,"w":286,"h":135},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-49.png":
+{
+	"frame": {"x":1,"y":535,"w":307,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":321,"y":188,"w":307,"h":137},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-50.png":
+{
+	"frame": {"x":1,"y":674,"w":293,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":188,"w":293,"h":134},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-51.png":
+{
+	"frame": {"x":310,"y":620,"w":299,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":332,"y":188,"w":299,"h":135},
+	"sourceSize": {"w":640,"h":400}
+},
+"Water-Skill-1-52.png":
+{
+	"frame": {"x":281,"y":1033,"w":284,"h":134},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":337,"y":188,"w":284,"h":134},
+	"sourceSize": {"w":640,"h":400}
+}},
+"animations": {
+	"Water-Skill-1": ["Water-Skill-1-00.png","Water-Skill-1-01.png","Water-Skill-1-02.png","Water-Skill-1-03.png","Water-Skill-1-04.png","Water-Skill-1-05.png","Water-Skill-1-06.png","Water-Skill-1-07.png","Water-Skill-1-08.png","Water-Skill-1-09.png","Water-Skill-1-10.png","Water-Skill-1-11.png","Water-Skill-1-12.png","Water-Skill-1-13.png","Water-Skill-1-14.png","Water-Skill-1-15.png","Water-Skill-1-16.png","Water-Skill-1-17.png","Water-Skill-1-18.png","Water-Skill-1-19.png","Water-Skill-1-20.png","Water-Skill-1-21.png","Water-Skill-1-22.png","Water-Skill-1-23.png","Water-Skill-1-24.png","Water-Skill-1-25.png","Water-Skill-1-26.png","Water-Skill-1-27.png","Water-Skill-1-28.png","Water-Skill-1-29.png","Water-Skill-1-30.png","Water-Skill-1-31.png","Water-Skill-1-32.png","Water-Skill-1-33.png","Water-Skill-1-34.png","Water-Skill-1-35.png","Water-Skill-1-36.png","Water-Skill-1-37.png","Water-Skill-1-38.png","Water-Skill-1-39.png","Water-Skill-1-40.png","Water-Skill-1-41.png","Water-Skill-1-42.png","Water-Skill-1-43.png","Water-Skill-1-44.png","Water-Skill-1-45.png","Water-Skill-1-46.png","Water-Skill-1-47.png","Water-Skill-1-48.png","Water-Skill-1-49.png","Water-Skill-1-50.png","Water-Skill-1-51.png","Water-Skill-1-52.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "skill-3-3.png",
+	"format": "RGBA8888",
+	"size": {"w":953,"h":1336},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:96ad7c13d578e3d643e7aed6acb108a0:7256b1f685af83ef3328b3054c3a80df:b624c1005934f2e646af17cf6bdec7a5$"
+}
+}
